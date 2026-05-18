@@ -1,17 +1,34 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # Edge AI Sharding Engine
 
-This repository contains everything you need to run the application locally.
+A modern web application built with React, Vite, and Tailwind CSS, leveraging the Gemini API via the Google Gen AI SDK for intelligent edge sharding orchestration.
 
-## Run Locally
+---
 
-**Prerequisites:** Node.js
+## 🛠️ Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in `.env.local` to your Gemini API key.
-3. Run the app:
-   `npm run dev`
+- **Frontend:** React 19, Vite, Tailwind CSS v4, Motion
+- **Backend:** Express, Node.js
+- **AI Integration:** `@google/genai` (Google Gen AI SDK)
+- **Language:** TypeScript
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Ensure you have **Node.js** (v18+ recommended) installed on your machine.
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/QuantumArnav/edge-ai-sharding-engine.git](https://github.com/QuantumArnav/edge-ai-sharding-engine.git)
+   cd edge-ai-sharding-engine
+2. Install dependencies: 
+npm install
+
+3. Set up environment variables:
+Create a .env or .env.local file in the root directory and add your Gemini API key:
+GEMINI_API_KEY=your_actual_api_key_here
+   
