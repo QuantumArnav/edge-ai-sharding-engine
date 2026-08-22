@@ -29,8 +29,8 @@ By intelligently analyzing resource allocation and network topology, the engine 
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** React 19, Vite, Tailwind CSS v4, Motion (for topology animations)
-* **Backend:** Node.js, Express
+* **Frontend:** React 19, Vite, Tailwind CSS v4, Motion(for topology animations)
+* **Backend:** Node.js , Express
 * **AI Integration:** `@google/genai` (Google Gen AI SDK)
 * **Core Language:** Strict TypeScript (96% of the codebase)
 
