@@ -1,4 +1,4 @@
-# 🌌 Edge AI Sharding Engine
+#  Edge AI Sharding Engine
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
